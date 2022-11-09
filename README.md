@@ -10,8 +10,7 @@ Using APIGW and Lambda create an HTTP API that takes a string as input, and retu
 
 ## Details
 - Share your screen
-- Clone this repository to your local machine
-- Create a new branch titled your first name
+- Fork and clone this repository to your local machine
 - Write all the business logic necessary for your Lambda
 - The AWS infrastructure (APIGW and Lambda) will be bootstrapped for you
 - When your HTTP API is ready to ship, push it to the remote/origin and the interviewer will deploy it for you
