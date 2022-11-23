@@ -1,4 +1,4 @@
-export const getHandler = async (event, context) => {
+export const reverser = async (event, context) => {
   const reversedPayload = event.body.split('').reverse().join('');
 
   return {
